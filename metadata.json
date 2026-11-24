@@ -1,0 +1,6 @@
+{
+  "name": "Digital Qaida — Arabic Smartboard & Learning Platform",
+  "description": "Learn the Quran with correct pronunciation step by step on any device. Interactive Noorani Qaida lessons, Arabic Writing Board Pro, and Teacher & Student portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
